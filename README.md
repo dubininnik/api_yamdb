@@ -3,7 +3,7 @@
 ### Авторы:
 - [Анастасия Стёпина](https://github.com/KDeviant66 "Github page")
 - [Александр Горленко](https://github.com/agorlenko2 "Github page")
-- [Николай Дубинин](https://github.com/nikdubinin "Github page")
+- [Николай Дубинин](https://github.com/nikdubinin "Github page") - Project Manager
 
 ### Технологии:
 - Python 3.9.10
