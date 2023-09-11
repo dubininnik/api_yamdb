@@ -28,7 +28,7 @@ http://localhost:8000/redoc/
 Клонируем репозиторий и перейти в него в терминале:
 
 ```
-git clone https://github.com/nikdubinin/api_yamdb.git
+git clone https://github.com/dubininnik/api_yamdb.git
 ```
 
 ```
